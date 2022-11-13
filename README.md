@@ -7,6 +7,3 @@
 -     https://testock.pythonanywhere.com/
 -     I developed a website for an NGO called Nootan Muskaan
 -     https://nootanmuskaan.org/
--     
-
-
