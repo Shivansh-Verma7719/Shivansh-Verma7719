@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivansh-Verma7719
+- 👋 Hi, I’m Shivansh Verma
 - 👀 I’m interested in becoming a full stack developer
 - 💞️ I’m looking to collaborate on open source codes
 - 📫 How to reach me shivanshverma082004@gmail.com
