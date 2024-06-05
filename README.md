@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
 <h3 align="center">Fullstack dev</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python, HTML, CSS, Java, Django,**
-
 - 📫 How to reach me **shivanshverma082004@Gmail.com**
 
 - 📄 Know about my experiences [https://amethyst-tana-12.tiiny.site/](https://amethyst-tana-12.tiiny.site/)
-
-- My Project https://Testock.pythonanywhere.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
