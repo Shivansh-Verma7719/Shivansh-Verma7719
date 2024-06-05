@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
 <h3 align="center">Fullstack dev</h3>
 
-- 📫 How to reach me **shivanshverma082004@Gmail.com**
+- 📫 How to reach me **shivansh.verma_ug2023@ashoka.edu.in**
 
 - 📄 Know about my experiences [https://amethyst-tana-12.tiiny.site/](https://amethyst-tana-12.tiiny.site/)
 
