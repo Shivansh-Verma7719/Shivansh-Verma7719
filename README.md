@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **shivansh.verma_ug2023@ashoka.edu.in**
 
-- 📄 Know about my experiences [https://amethyst-tana-12.tiiny.site/](https://amethyst-tana-12.tiiny.site/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivanshvermao8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshvermao8" height="30" width="40" /></a>
