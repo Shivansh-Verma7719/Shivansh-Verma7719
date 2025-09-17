@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Tech and Product Intern @Edme Insurance Brokers (formerly Aditya Birla Insurance Brokers) <br/>
-🛒 Previously worked as Product Engineering Intern @More Retail
+🛒 Previously worked as  as Tech and Product Intern @Edme Insurance Brokers (formerly Aditya Birla Insurance Brokers) & Product Engineering Intern @More Retail
 
 
 ## 🌐 Socials:
